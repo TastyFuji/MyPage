@@ -122,6 +122,9 @@ body {
     background-color: rgb(252, 234, 211);
     border-radius: 5px;
     box-shadow: 2px 2px 2px #333;
+    font-family: "Tiny5", sans-serif;
+    font-weight: 500;
+    font-style: normal;
 
   }
   
